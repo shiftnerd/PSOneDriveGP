@@ -1,4 +1,4 @@
-< # Function to enable OneDrive Known folders move.
+< # Function to enable OneDrive Known folders move.#>
 function Enable-OneDriveKnownFolderMove {
     [CmdletBinding()]
     param (
